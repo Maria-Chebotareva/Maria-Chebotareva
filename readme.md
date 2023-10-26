@@ -61,10 +61,7 @@ ___
  ___
  Вы можете связаться со мной</p>
  
- <div id="user-content-badges" align="center" dir="auto">
-   
-  <a href="https://my.mail.ru/mail/marial89ruja/" rel="nofollow">
-    <img src="https://camo.githubusercontent.com/01cb97627e8f527a0ea49c795aa1dd85dae140d115a44949a2bfbf330c7de6cc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d61696c2e72752d626c75653f7374796c653d666f722d7468652d6261646765266c6f676f3d4d61696c2e7275266c6f676f436f6c6f723d7768697465" alt="Mail.ru Badge" data-canonical-src="https://img.shields.io/badge/Mail.ru-blue?style=for-the-badge&amp;logo=Mail.ru&amp;logoColor=white" style="max-width: 100%;">
+ <div id="user-content-badges" align="center" dir="auto">   
     </a>
   <a href="https://wa.me/79652969466" rel="nofollow">
     <img src="https://camo.githubusercontent.com/59023b7866ff646296924079b02fc1e077156019db03417ed5880f539dc88662/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f57686174734170702d677265656e3f7374796c653d666f722d7468652d6261646765266c6f676f3d5768617473417070266c6f676f436f6c6f723d7768697465" alt="WhatsApp Badge" data-canonical-src="https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&amp;logo=WhatsApp&amp;logoColor=white" style="max-width: 100%;">
