@@ -45,7 +45,7 @@ ___
  
 **Портфолио**
 
-[Анализ бизнес-модели в google_sheets](https://docs.google.com/spreadsheets/d/1L6FlT0_8I9ARSZ_mTyihLJ6iHUiSwjjI08JPW0w4j_k/edit#gid=1693625461)</p>
+[Анализ бизнес-модели в google_sheets](https://docs.google.com/spreadsheets/d/145yasPjGTxbMv7XjfVvmWovNaCIBct8zG6ff90sBc1Y/edit#gid=1693625461)</p>
 [Решение бизнес-задач с помощью SQL](https://docs.google.com/document/d/1fJZ-av_35NhG9aH7ws2t2sBbdpZ4Eqs12TqpkTBM32E/edit#heading=h.amkwp7nlw31g)</p>
 [Поведенческая аналитика.ad-hoc запрос](https://drive.google.com/file/d/1eRkMZVOgS0j-RA2MK-BP6IhLcPCdCzHS/view?usp=sharing)</p>
 [Финансовый отчет Power BI](https://app.powerbi.com/groups/me/reports/4118b61a-5c49-4f83-8229-6c7205174153/ReportSection7a743ad021062a6528c4?experience=power-bi)</p>
