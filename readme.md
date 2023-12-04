@@ -52,9 +52,9 @@ ___
 [Когортный анализ Power BI](https://app.powerbi.com/links/fizVV0Ead6?ctid=6a4dee01-c3f5-4d4b-bdd2-9e1f1482ac5d&pbi_source=linkShare)</p>
 [Анализ эффективности рекламной кампании](https://app.powerbi.com/groups/me/reports/b71dc636-e83a-4ab0-8269-93a8174efdad/ReportSection9bdea72527218e300ab1?experience=power-bi)</p>
 [Анализ воронки с помощью Python (просмотр в Google Colab)](https://drive.google.com/file/d/1vE_OXwd2OvYtUJzNw6zIGYjTZ1_zBo8j/view?usp=sharing)</p>
-[Исследование поведения пользователей](https://colab.research.google.com/drive/1Gk2W3zFLPpF7sLcAFU9KhNfBEVajuhC9)</p>
+[Исследование поведения пользователей (Python)](https://colab.research.google.com/drive/1Gk2W3zFLPpF7sLcAFU9KhNfBEVajuhC9)</p>
 [Оценка эффективности новой фичи](https://colab.research.google.com/drive/1TpJXWo8DOnF1jEdvLzqsiNPw1bhwj3GT#scrollTo=q3xXSZ9TL9Hk)</p>
-[Подготовка рекомендательной системы](https://colab.research.google.com/drive/1L_ZxfzCyhCk7UcLsX8zw3s8pjlEQW-nb)</p>
+[Подготовка рекомендательной системы (Python)](https://colab.research.google.com/drive/1L_ZxfzCyhCk7UcLsX8zw3s8pjlEQW-nb)</p>
 [AB тест Python](https://colab.research.google.com/drive/1NS2CWSF4_4WlZHghu8DtgadP0EMfwfIj#scrollTo=E2-G54An_fq1)</p>
 [Презентация для хакатона по аналитике](https://drive.google.com/drive/search?q=owner:me%20(type:application/vnd.google.colaboratory%20||%20type:application/vnd.google.colab))</p>
 
