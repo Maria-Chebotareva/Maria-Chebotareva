@@ -56,7 +56,8 @@ ___
 [Оценка эффективности новой фичи](https://colab.research.google.com/drive/1TpJXWo8DOnF1jEdvLzqsiNPw1bhwj3GT#scrollTo=q3xXSZ9TL9Hk)</p>
 [Подготовка рекомендательной системы (Python)](https://colab.research.google.com/drive/1L_ZxfzCyhCk7UcLsX8zw3s8pjlEQW-nb)</p>
 [AB тест Python](https://colab.research.google.com/drive/1NS2CWSF4_4WlZHghu8DtgadP0EMfwfIj#scrollTo=E2-G54An_fq1)</p>
-[Презентация для хакатона по аналитике](https://drive.google.com/drive/search?q=owner:me%20(type:application/vnd.google.colaboratory%20||%20type:application/vnd.google.colab))</p>
+[Презентация для хакатона по аналитике](https://drive.google.com/file/d/1aWWdfwYUYnFIN_ISj6_O8LjkxAtY8Bn4/view?usp=sharing)</p>
+
 
  ___
  Вы можете связаться со мной</p>
