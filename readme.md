@@ -38,7 +38,7 @@ ___
 Если вы ищете очень ответственного и неконфликтного человека, вот мое резюме
 
 </a>
-<a href="https://drive.google.com/file/d/1ce-tIGcI0hZGXvAvI4nNq-791GtLwHk_/view?usp=sharing&amp;ouid=112066276742177026889&amp;rtpof=true&amp;sd=true" rel="nofollow">
+<a href="https://drive.google.com/file/d/1ZZ8w-uKmbiHKGnMRbOH2blwzio3xUjDi/view?usp=sharing&amp;ouid=112066276742177026889&amp;rtpof=true&amp;sd=true" rel="nofollow">
     <img src="https://camo.githubusercontent.com/290530ada94ba6d7bdee56e2627831174c9fa62e7db1f3ae780936e0e6c46cbd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652fd0a0d095d097d0aed09cd0952d7265643f7374796c653d666f722d7468652d6261646765266c6f676f3d6f62726e61647a6f722e676f76266c6f676f436f6c6f723d7768697465" alt="obrnadzor.gov.ru Badge" data-canonical-src="https://img.shields.io/badge/РЕЗЮМЕ-red?style=for-the-badge&amp;logo=obrnadzor.gov&amp;logoColor=white" style="max-width: 100%;"> 
 <hr>
 </a>
