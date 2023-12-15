@@ -48,6 +48,7 @@ ___
 [Анализ бизнес-модели в google_sheets](https://docs.google.com/spreadsheets/d/145yasPjGTxbMv7XjfVvmWovNaCIBct8zG6ff90sBc1Y/edit#gid=1693625461)</p>
 [Решение бизнес-задач с помощью SQL](https://docs.google.com/document/d/1fJZ-av_35NhG9aH7ws2t2sBbdpZ4Eqs12TqpkTBM32E/edit#heading=h.amkwp7nlw31g)</p>
 [Поведенческая аналитика.ad-hoc запрос](https://drive.google.com/file/d/1eRkMZVOgS0j-RA2MK-BP6IhLcPCdCzHS/view?usp=sharing)</p>
+[Дашборд Power BI](https://app.powerbi.com/groups/me/reports/a9fc0f00-75e3-42e8-9dad-d85bd0ee3422/ReportSection?experience=power-bi)</p>
 [Финансовый отчет Power BI](https://app.powerbi.com/groups/me/reports/4118b61a-5c49-4f83-8229-6c7205174153/ReportSection7a743ad021062a6528c4?experience=power-bi)</p>
 [Когортный анализ Power BI](https://app.powerbi.com/links/fizVV0Ead6?ctid=6a4dee01-c3f5-4d4b-bdd2-9e1f1482ac5d&pbi_source=linkShare)</p>
 [Анализ эффективности рекламной кампании](https://app.powerbi.com/groups/me/reports/b71dc636-e83a-4ab0-8269-93a8174efdad/ReportSection9bdea72527218e300ab1?experience=power-bi)</p>
